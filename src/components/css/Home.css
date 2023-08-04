@@ -22,3 +22,38 @@
   display: flex;
   align-items: flex-end;
 }
+
+.div-home-main {
+  width: auto;
+  height: 5rem;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: inherit;
+  margin-top: 3rem;
+}
+
+/* Styles for wrapping the search box */
+
+.main {
+  width: 50%;
+  margin: 50px auto;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
