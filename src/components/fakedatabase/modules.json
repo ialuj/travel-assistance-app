@@ -1,0 +1,133 @@
+[
+    {
+        "title": "Gestão Financeira Autárquica",
+        "modules": [
+            {"module_description":"Módulo de Planificação Orçamental Autárquica",
+             "prefix": "MEO-A"
+            },
+            {"module_description":"Módulo de Execução Orçamental Autárquica",
+                "prefix": "MEX-A"
+               },
+               {"module_description":"Módulo de Património Autárquica",
+                "prefix": "MPE-A"
+               },
+               {"module_description":"Cadastro Único de Empreiteiros e Fornecedores do Estado",
+                "prefix": "CEF"
+               },
+               {"module_description":"Catálogo de Bens e Serviços",
+                "prefix": "CBS"
+               },
+               {"module_description":"Sistema Nacional de Gestão de Recursos Humanos do Estado",
+                "prefix": "SNGRHE"
+               },
+               {"module_description":"Preços de Referência",
+                "prefix": "PRF"
+               },
+               {"module_description":"Módulo de Planificação e Orçamentação Autárquica",
+                "prefix": "MPO-A"
+               }
+                  ]
+    },
+    {
+        "title": "Gestão de Receitas Autárquicas",
+        "modules": [
+            {"module_description":"Módulo de Gestão de Receitas Autárquicas",
+             "prefix": "MRA"
+            }
+                  ]
+    },
+    {
+        "title": "Gestão de Serviços Autárquicos",
+        "modules": [
+            {"module_description":"Módulo de Licenciamento e Registos Autárquica",
+             "prefix": "MLR"
+            },
+            {"module_description":"Módulo de Planificação e Ocupação de Espaços Públicos",
+                "prefix": "MPOE"
+               },
+               {"module_description":"Módulo de Gestão de Mercados e Feiras e Comércio Ambulante",
+                "prefix": "MMF"
+               },
+               {"module_description":"Módulo de Controlo Metrológico",
+                "prefix": "MCM"
+               },
+               {"module_description":"Módulo de Rendas Comerciais",
+                "prefix": "MRC"
+               },
+               {"module_description":"Módulo Veículos e Condução",
+                "prefix": "MVC"
+               },
+               {"module_description":"Módulo de Gestão de Estacionamentos",
+                "prefix": "MGE"
+               }
+                  ]
+    },
+    {
+        "title": "Gestão de Informação Geográfica",
+        "modules": [
+            {"module_description":"Módulo de Gestão de Informação Geográfica",
+             "prefix": "MGIS"
+            }
+                  ]
+    },
+    {
+        "title": "Ordenamento e Gestão Urbanística",
+        "modules": [
+            {"module_description":"Módulo de Informação Territorial",
+             "prefix": "MIT"
+            },
+            {"module_description":"Módulo de Gestão de Solo Urbano",
+                "prefix": "MGS"
+               },
+               {"module_description":"Módulo de Gestão Urbanística",
+                "prefix": "MGU"
+               }
+                  ]
+    },
+    {
+        "title": "Gestão da Organização e Conhecimento",
+        "modules": [
+            {"module_description":"Módulo de Gestão de Conhecimento",
+             "prefix": "MGC"
+            }
+                  ]
+    },
+    {
+        "title": "Gestão de Serviços Urbanos e Ambiente",
+        "modules": [
+            {"module_description":"Módulo de Gestão de Resíduos e Limpeza Urbana",
+             "prefix": "MRSU"
+            },
+            {"module_description":"Módulo de Gestão de Cemitérios",
+                "prefix": "MCE"
+            }
+                  ]
+    },
+    {
+        "title": "Gestão da Polícia e Fiscalização Autárquica",
+        "modules": [
+            {"module_description":"Módulo de Gestão de Polícia e Fiscalização Autárquica",
+             "prefix": "MPFA"
+            }
+                  ]
+    },
+    {
+        "title": "Apoio a Governação",
+        "modules": [
+            {"module_description":"Módulo de Apoio à Governação",
+             "prefix": "MAG"
+            }
+                  ]
+    },
+    {
+        "title": "Gestão Relacional",
+        "modules": [
+            {"module_description":"Módulo de Repositório único de Entidades",
+             "prefix": "MRUE"
+            },
+            {"module_description":"Módulo de Balcão de Atendimento Multinacional",
+                "prefix": "MBAM"
+            }
+                  ]
+    }
+]

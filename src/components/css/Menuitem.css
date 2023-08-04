@@ -1,0 +1,21 @@
+.menu-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bolder;
+  border: none;
+  cursor: pointer;
+}
+
+.menu-item:hover {
+  color: whitesmoke;
+  border-radius: 91px;
+  background-color: #7aa228;
+}
+
+.menu-item:active {
+  color: yellowgreen;
+  background-color: black;
+}
+
+
