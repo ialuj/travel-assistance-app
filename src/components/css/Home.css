@@ -17,3 +17,8 @@
   width: 20rem;
   height: 3rem;
 }
+
+.city-info {
+  display: flex;
+  align-items: flex-end;
+}
