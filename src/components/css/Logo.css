@@ -1,0 +1,16 @@
+.logo {
+  width: 50rem;
+  height: 61px;
+  background-color: #7aa228;
+}
+
+.div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 40rem;
+  height: 2rem;
+}

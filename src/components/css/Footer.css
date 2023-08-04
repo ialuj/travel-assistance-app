@@ -1,0 +1,36 @@
+.img-footer {
+  width: fit-content;
+  height: auto;
+}
+
+.div-footer {
+  width: auto;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: inherit;
+}
+
+.div-copyright {
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: inherit;
+}
+
+.list {
+  list-style: none;
+  margin-left: 0px;
+  width: auto;
+}
+
+.div-space {
+  height: 20px;
+}
+
+.span-cedsif {
+  color: #7aa228;
+  cursor: pointer;
+}
